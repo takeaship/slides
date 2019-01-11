@@ -10,6 +10,10 @@
 - 東京ドームでワンマン2DAYS
 - 紅白歌合戦出演
 - 劇場版公開
+---
+![](https://pbs.twimg.com/media/DsyCSiKUcAA4c77.jpg)
+---
+![](https://pbs.twimg.com/media/DvwI3XyU8AAwDWx.jpg:large)
 
 ---
 ## 劇場版公開

@@ -8,7 +8,7 @@
 Azure ソリューション開発者のための資格
 ---
 ## MCP AZ-203の形式
-![AZ-203](/shinjuku-mokumoku/35/MCP概要.png) 
+![AZ-203](/shinjuku-mokumoku/35/MCP_overview.png) 
 ---
 ## 試験対策
 * 模擬試験はない

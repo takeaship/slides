@@ -1,4 +1,4 @@
-### Learning Azure services for MCP AZ-203
+### Learning Azure services for <br> MCP AZ-203
   
 増川武志
 
@@ -8,7 +8,7 @@
 Azure ソリューション開発者のための資格
 ---
 ## MCP AZ-203の形式
--  ![AZ-203](/shinjuku-mokumoku/35/MCP概要.png) 
+![AZ-203](/shinjuku-mokumoku/35/MCP概要.png) 
 ---
 ## 試験対策
 * 模擬試験はない

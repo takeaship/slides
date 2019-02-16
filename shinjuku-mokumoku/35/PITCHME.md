@@ -1,10 +1,10 @@
-### Getting started with Amazon Alexa development
+### Learning Azure services for MCP AZ-203
   
 増川武志
 
 ---
 ## 今日やること
-- [MCP AZ-203](https://www.microsoft.com/en-us/learning/exam-AZ-203.aspx)のお勉強
+- [MCP AZ-203](https://www.microsoft.com/en-us/learning/exam-AZ-203.aspx)のお勉強  
 Azure ソリューション開発者のための資格
 ---
 ## MCP AZ-203の形式

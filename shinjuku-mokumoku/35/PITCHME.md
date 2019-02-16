@@ -25,8 +25,9 @@ Azure ソリューション開発者のための資格
   
 Azure Kubernetes Serviceから勉強することにしました
 ---
-##
-
+## AKSでやったこと
+* Kubernetesの基本概念理解
+* Kubernetesのアプリケーション構築のチュートリアル
 
 ---
 ## 所感

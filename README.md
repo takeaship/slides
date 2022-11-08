@@ -1,2 +1,2 @@
 # slides
-slides for https://gitpitch.com/
+slides created by reveal.js.
